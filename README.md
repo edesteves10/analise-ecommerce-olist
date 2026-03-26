@@ -32,3 +32,16 @@ Durante o projeto, apliquei técnicas de:
 
 ---
 *Projeto desenvolvido por **Ednei** como parte do aprimoramento em Análise de Dados.*
+
+### 1. Logística e Tempo de Entrega (Lead Time)
+![Gráfico de Entrega por Estado](gf_tempo_med_entreg.png)
+
+### 2. Satisfação vs. Prazo
+![Correlação Nota e Tempo](gf_tempo_nota.png)
+
+### 3. Sazonalidade e Black Friday
+![Evolução Mensal de Vendas](gf_evolucao_mensal.png)
+
+### 4. Mix de Produtos (Top 10 Categorias)
+![Top Categorias](gf_categ_top10.png)
+
